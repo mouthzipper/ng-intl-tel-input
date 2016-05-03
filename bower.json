@@ -26,7 +26,7 @@
     "tests"
   ],
   "dependencies": {
-    "intl-tel-input": "~6.0.6"
+    "intl-tel-input": "5.1.7"
   },
   "devDependencies": {
     "angularjs": "1.4.3",
